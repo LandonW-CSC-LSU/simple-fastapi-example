@@ -109,7 +109,7 @@ def show_recipe_image(id: int):
                         <html>
                             <head><title>{recipe['title']}</title></head>
                             <body style='text-align:center; font-family:sans-serif;'>
-                                <h1>{recipe['title']} (ID: {recipe['id']})</h1>
+                                <h1>{recipe['title']}</h1>
                                 <p><b>Difficulty:</b> {recipe['difficulty']} | <b>Cooking Time:</b> {recipe['cooking_time']} min</p>
                                 <h2>Ingredients</h2>
                                 {ingredients_html}

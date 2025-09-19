@@ -1,21 +1,50 @@
 {
-  "recipes": [
-    {
-      "id": 1,
-      "title": "Spaghetti Carbonara",
-      "ingredients": [
-        "200g spaghetti",
-        "100g pancetta",
-        "2 large eggs",
-        "50g parmesan cheese",
-        "2 cloves garlic",
-        "Salt",
-        "Black pepper"
-      ],
-      "instructions": "Cook spaghetti. Fry pancetta and garlic. Beat eggs and mix with cheese. Combine everything off heat, season, and serve.",
-      "cooking_time": 20,
-      "difficulty": "Easy",
-      "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
-    }
-  ]
+    "recipes": [
+        {
+            "id": 1,
+            "title": "Spaghetti Carbonara",
+            "ingredients": [
+                "1 box spaghetti",
+                "3/4 cup diced pancetta",
+                "2 large eggs",
+                "1/2 cup grated Parmesan cheese",
+                "2 cloves garlic, minced",
+                "Salt to taste",
+                "Black pepper to taste"
+
+            ],
+            "instructions": "Cook spaghetti. Fry pancetta and garlic. Beat eggs and mix with cheese. Combine everything off heat, season, and serve.",
+            "cooking_time": 20,
+            "difficulty": "Easy",
+            "image_url": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Lasagna",
+            "ingredients": [
+                "Olive oil",
+                "1 lb ground beef",
+                "1 small onion, finely chopped",
+                "2 cloves garlic, minced",
+                "1 can (28 oz) crushed tomatoes",
+                "2 tbsp tomato paste",
+                "1 tsp dried oregano",
+                "1 tsp dried basil",
+                "Salt and pepper to taste",
+                "1 tsp sugar (optional)",
+                "15 oz ricotta cheese",
+                "1 egg",
+                "1/2 cup grated Parmesan cheese",
+                "2 tbsp chopped parsley (optional)",
+                "9 lasagna noodles (boiled or oven-ready)",
+                "2 cups shredded mozzarella cheese"
+
+            ],
+            "instructions": "Preheat oven to 375°F (190°C). In a skillet, heat olive oil and cook ground beef until browned. Add onion and garlic; sauté until soft. Stir in crushed tomatoes, tomato paste, oregano, basil, salt, pepper, and sugar. Simmer for 20 minutes. In a bowl, mix ricotta cheese, egg, Parmesan, and parsley. In a baking dish, layer noodles, meat sauce, ricotta mixture, and mozzarella. Repeat layers and finish with mozzarella on top. Cover with foil and bake for 25 minutes, then uncover and bake for another 20 minutes until bubbly and golden. Let rest 10 minutes before serving.",
+            "cooking_time": 60,
+            "difficulty": "Medium",
+            "image_url": "https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe.jpg"
+
+        }
+    ]
 }
