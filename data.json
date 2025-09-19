@@ -1,0 +1,21 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Spaghetti Carbonara",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g parmesan cheese",
+        "2 cloves garlic",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "Cook spaghetti. Fry pancetta and garlic. Beat eggs and mix with cheese. Combine everything off heat, season, and serve.",
+      "cooking_time": 20,
+      "difficulty": "Easy",
+      "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+    }
+  ]
+}
