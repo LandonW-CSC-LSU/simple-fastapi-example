@@ -46,5 +46,22 @@
             "image_url": "https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe.jpg"
 
         }
+        {
+            "id": 3,
+            "title": "Red Beans and Rice",
+            "ingredients": [
+                "1 tbsp olive oil",
+                "1 lb smoked sausage, sliced",
+                "1 large onion, chopped",
+                "2 15 oz cans of red kidney beans, rinsed",
+                "2 cups chicken broth",
+                "1 tbsp Cajun seasoning",
+                "2 cups white rice"
+            ],
+            "instructions": "Cook white rice in pot for 18 minutes. In another pot, heat oil and brown the sausage and onion. Add the rinsed beans, chicken broth, and Cajun seasoning. Bring to a simmer and cook for 15 minutes, stirring occasionally. Serve over hot rice.",
+            "cooking_time": 25,
+            "difficulty": "Easy",
+            "image_url": "https://www.explorelouisiana.com/sites/default/files/2025-05/red-beans-rice.jpg"
+        }
     ]
 }
