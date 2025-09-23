@@ -80,7 +80,7 @@
             "cooking_time": 25,
             "difficulty": "Easy",
             "image_url": "https://www.crunchycreamysweet.com/wp-content/uploads/2019/05/chicken-enchiladas-feat.png"
-        }
+        },
         {
             "id": 5,
             "title": "New Orleans Macaroni and Cheese",
@@ -100,12 +100,30 @@
                  "4 cups milk",
                  "8 ounces sharp Cheddar cheese",
                 "8 ounces Monterey Jack cheese",
-                "1 pound dry bucatini pasta",
+                "1 pound dry bucatini pasta"
             ],
-            "instruction":"Heat oil in a saucepan over medium-high heat. Add onions and sauté for about 2 minutes. Add celery and bell pepper, and continue to cook and stir until onions turn soft and translucent, 3 to 5 minutes. Add butter, paprika, black pepper, garlic powder, cumin, and salt, and sauté until butter is melted and spices are fragrant, 1 to 2 minutes. Stir in flour, and cook, stirring, for about 2 minutes. Pour in cream and milk, and whisk thoroughly, incorporating any flour that is stuck to the bottom of the pan. Bring sauce to a simmer, whisking occasionally, then reduce heat to medium-low; simmer for 5 minutes, stirring occasionally. Turn off the heat, and stir in 3/4 of both Cheddar and Monterey Jack cheese. Move cheese sauce to the back of the stove while you boil the pasta. Preheat the oven to 425 degrees F (220 degrees C). Bring a large pot of salted water to a boil, and cook bucatini for 30 seconds less than directed on the package. Drain well and transfer into a 9x13-inch casserole dish. Use tongs to quickly arrange pasta into an even layer. Ladle over cheese sauce, and use tongs to move pasta around until it is evenly coated and uniformly distributed. Top with remaining cheese. Sprinkle the top with cayenne pepper. Bake in the preheated oven until the top is golden brown and sauce is bubbling around the edges, about 30 minutes. Let rest for 10 minutes before serving."
+            "instruction":"Heat oil in a saucepan over medium-high heat. Add onions and sauté for about 2 minutes. Add celery and bell pepper, and continue to cook and stir until onions turn soft and translucent, 3 to 5 minutes. Add butter, paprika, black pepper, garlic powder, cumin, and salt, and sauté until butter is melted and spices are fragrant, 1 to 2 minutes. Stir in flour, and cook, stirring, for about 2 minutes. Pour in cream and milk, and whisk thoroughly, incorporating any flour that is stuck to the bottom of the pan. Bring sauce to a simmer, whisking occasionally, then reduce heat to medium-low; simmer for 5 minutes, stirring occasionally. Turn off the heat, and stir in 3/4 of both Cheddar and Monterey Jack cheese. Move cheese sauce to the back of the stove while you boil the pasta. Preheat the oven to 425 degrees F (220 degrees C). Bring a large pot of salted water to a boil, and cook bucatini for 30 seconds less than directed on the package. Drain well and transfer into a 9x13-inch casserole dish. Use tongs to quickly arrange pasta into an even layer. Ladle over cheese sauce, and use tongs to move pasta around until it is evenly coated and uniformly distributed. Top with remaining cheese. Sprinkle the top with cayenne pepper. Bake in the preheated oven until the top is golden brown and sauce is bubbling around the edges, about 30 minutes. Let rest for 10 minutes before serving.",
             "cooking_time": 50,
             "difficulty": "Medium",
             "image_url": "https://www.allrecipes.com/thmb/Clqlq-4Ixd7I7tl4WBFkdtBLm7c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/11797804_New-Orleans-Macaroni-and-Cheese_John-Mitzewich_4x3-a1a2f367d05b49a2aed67498cab9ef19.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Buttered Noodles",
+            "ingredients": [
+                "8 oz package dry spaghetti",
+                "8 tablespoons butter",
+                "2 tablespoons minced garlic",
+                "1 tablespoon chopped fresh parsley",
+                "Salt and freshly ground black pepper to taste",
+                "1 pinch cayenne pepper (or to taste)",
+                "1 cup grated Parmesan cheese"
+
+            ],
+            "instructions": "Boil a large pot of lightly salted water. Cook pasta until al dente, 8-10 minutes, drain. Meanwhile, heat a skilled over medium heat. Melt butter with garlic very slowly to avoid burning. Put the seasonings in. Add cooked pasta to the skillet and toss until well coated with butter. Serve with grated parmesan cheese",
+            "cooking_time": 25,
+            "difficulty": "Easy",
+            "image_url": "https://www.allrecipes.com/thmb/nhBZXVayy9BKH-3kNE6Q6WKzWeY=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/67700_RichPastaforthePoorKitchen_ddmfs_4x3_2284-220302ec8328442096df370dede357d7.jpg"
         }
     ]
 }
