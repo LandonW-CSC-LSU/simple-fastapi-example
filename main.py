@@ -95,10 +95,10 @@ def delete_recipe(id: int):
     raise HTTPException(status_code=404, detail="Recipe not found")
 
 
-@app.get("/recipes/{id}/image", response_class=HTMLResponse)
-def show_recipe_image(id: int):
+@app.get("/recipes/{id}/page", response_class=HTMLResponse)
+def show_recipe_page(id: int):
         """
-        Show an HTML page with the recipe image embedded.
+        Show an HTML page with the recipe image and info embedded.
         This demonstrates returning HTML instead of JSON.
         """
         data = read_data()
